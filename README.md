@@ -9,6 +9,7 @@
 <img src="./images/ai-blocks.jpg" alt="AI-Powered Cover Letter" height=800></img></a>
 <br></br>
 
+
 [![python](https://img.shields.io/badge/Python-3.12-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/stable)
 [![tensorflow](https://img.shields.io/badge/TensorFlow-1.12-FF6F00.svg?style=flat&logo=tensorflow)](https://www.tensorflow.org)
@@ -96,5 +97,4 @@ pip install -r requirements.txt
 
 # Contribution
 
-https://github.com/Frrrrrrrrank/auto_job__find__chatgpt__rpa
 https://www.linkedin.com/pulse/automate-your-job-search-personalized-cover-letters-powered-leo-reny-elbye
