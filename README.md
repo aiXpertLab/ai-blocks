@@ -1,4 +1,4 @@
-### AI-Powered Automatically Customize Cover Letter for Each Job Post
+### AI BLOCKS anybody cannot skip
 > - AI-Powered, Customized, Cover Letters
 > - AI Assistant Job Flow Automator. 
 > - Automate the customization of cover letters tailored to your resume and the unique requirements outlined in the job description extracted.
@@ -6,7 +6,7 @@
 <div align="center">
 
 <a href='https://www.hypech.com'>
-<img src="src/aiCL/resources/images/ai_powered_long.png" alt="AI-Powered Cover Letter" height=300></img></a>
+<img src="./images/ai-blocks.jpg" alt="AI-Powered Cover Letter" height=800></img></a>
 <br></br>
 
 [![python](https://img.shields.io/badge/Python-3.12-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
